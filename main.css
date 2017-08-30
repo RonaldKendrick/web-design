@@ -1,0 +1,27 @@
+body {
+    background-image: url("Pink Elephant.jpg");
+    background-color: #1000ff;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+body {
+    color: #70f404;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+p {
+   color: #780bed;
+   font-size: 30px;
+   text-align: center; 
+}
+
+
+img {
+     max-width: 100%;
+}
